@@ -1,3 +1,2 @@
 # Introduction
-This repository contains code of Graph Auto Encoder and Deep Auto Encoder. These networks were trained on
-Netflix prize dataset to test their performance on link prediction problem.
+This repository contains the code for netflix movie recommendation using link prediction on user interaction graphs. The approach uses deep neural network called Graph Auto Encoder built on the top of Graph Convolution Network.
